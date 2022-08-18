@@ -1,4 +1,4 @@
-name: MyVDS is working
+name: MyVDS
 
 on: [push, workflow_dispatch]
 
